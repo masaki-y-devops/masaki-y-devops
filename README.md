@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは 👋
 
 <!--
 **masaki-y-devops/masaki-y-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

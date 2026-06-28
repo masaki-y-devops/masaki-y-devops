@@ -1,4 +1,4 @@
-### TL; DR（今北産業）
+### TL; DR
 
 AI普及前からLinux（Arch/Gentoo/NixOS）のスクラッチ構築や自動化に熱中していました。
 

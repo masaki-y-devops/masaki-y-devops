@@ -19,7 +19,7 @@
 
 ポートフォリオ（兼、実験場・playground）サイトはこちら→[masaki-y-devopsの遊び場](https://portfolio-sites-react.vercel.app/)
 
-_"Thanks for your visiting (and of course following)! I'm still (or may be forever) a beginner programmer in Japan, so I am glad to reached my code to you. Happy coding!"_
+_"Thanks for your visiting (and of course following)! I'm still (or may be forever) a beginner programmer in Japan, so I'm happy that my code has reached to you. Happy coding!"_
 
 <details>
 <summary> <strong>詳しいスキルセットや経歴を見る（クリックで展開）</strong> </summary>

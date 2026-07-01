@@ -1,19 +1,25 @@
 ### TL; DR
 
-数年前からLinux（Arch/Gentoo/NixOS）のスクラッチ構築や自動化に熱中し、コードをプライベートなクラウドストレージに蓄積していました。
+数年前からLinux（Arch/Gentoo/NixOS）のスクラッチ構築や自動化に熱中し、
 
-現在はAIをペアプロ相手として使い、[Next.js+Vercelでの爆速開発](https://github.com/masaki-y-devops/portfolio-sites-react)や[WPFでの業務効率化ツールを自作](https://github.com/masaki-y-devops/iso-builder-wpf)しています。
+雑多なコードをプライベートなクラウドストレージに蓄積していました。
+
+現在はAIをペアプロ相手として使い、[Next.js+Vercelでの爆速開発](https://github.com/masaki-y-devops/portfolio-sites-react)や[WPFでの定型作業効率化ツールを自作](https://github.com/masaki-y-devops/iso-builder-wpf)しています。
 
 「トイル（手作業）を技術で撲滅し、仕組みで生産性を加速させる」仕事がしたい人間です。
 
 ### 【個人活動・システム運用実績】
-[Linux（Arch, NixOS）を用いたOS環境の自動構築・整備](https://github.com/masaki-y-devops/nixos-setup-flakes)や、[Ubuntu Serverで自宅サーバーの構築およびマルチコンテナ環境の運用の経験](https://github.com/masaki-y-devops/self-hosted-docs)があります。
+[Linux（Arch, NixOS）を用いたOS環境の自動構築・整備](https://github.com/masaki-y-devops/nixos-setup-flakes)や、
 
-単にツールを動かすだけでなく、インフラの再現性（**IaC**類似の思想）や運用の自動化（**SRE**のような考え方）を意識した設計・トラブルシューティングが強みであると自負しています。
+[Ubuntu Serverで自宅サーバーの構築およびマルチコンテナ環境の運用の経験](https://github.com/masaki-y-devops/self-hosted-docs)があります。
+
+単にツールを動かすだけでなく、インフラの再現性（**IaC**類似の思想）や、
+
+運用の自動化（**SRE**のような考え方）を意識した設計・トラブルシューティングが強みであると自負しています。
 
 ポートフォリオ（兼、実験場・playground）サイトはこちら→[masaki-y-devopsの遊び場](https://portfolio-sites-react.vercel.app/)
 
-"Thanks for your visiting (and of course following)! I'm still (or may be forever) a beginner programmer in Japan, so I am glad to reached my code to you. Happy coding!"
+_"Thanks for your visiting (and of course following)! I'm still (or may be forever) a beginner programmer in Japan, so I am glad to reached my code to you. Happy coding!"_
 
 <details>
 <summary> <strong>詳しいスキルセットや経歴を見る（クリックで展開）</strong> </summary>

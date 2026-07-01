@@ -4,6 +4,8 @@
 
 雑多なコードをプライベートなクラウドストレージに蓄積していました。
 
+今まで恥ずかしがって出していなかったコードやスクリプトを、少し見られることを意識して整理することで、成長につなげていこうと思っています。
+
 現在はAIをペアプロ相手として使い、[Next.js+Vercelでの爆速開発](https://github.com/masaki-y-devops/portfolio-sites-react)や[WPFでの定型作業効率化ツールを自作](https://github.com/masaki-y-devops/iso-builder-wpf)しています。
 
 「トイル（手作業）を技術で撲滅し、仕組みで生産性を加速させる」仕事がしたい人間です。

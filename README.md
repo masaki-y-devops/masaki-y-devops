@@ -1,13 +1,13 @@
 ### TL; DR
 
-AI普及前からLinux（Arch/Gentoo/NixOS）のスクラッチ構築や自動化に熱中していました。
+数年前からLinux（Arch/Gentoo/NixOS）のスクラッチ構築や自動化に熱中し、コードをプライベートなクラウドストレージに蓄積していました。
 
-現在はAIをペアプロ相手として使い、Next.js+Vercelでの爆速開発やWPFでの業務効率化ツールを自作しています。
+現在はAIをペアプロ相手として使い、[Next.js+Vercelでの爆速開発](https://github.com/masaki-y-devops/portfolio-sites-react)や[WPFでの業務効率化ツールを自作](https://github.com/masaki-y-devops/iso-builder-wpf)しています。
 
 「トイル（手作業）を技術で撲滅し、仕組みで生産性を加速させる」仕事がしたい人間です。
 
 ### 【個人活動・システム運用実績】
-Linux（Arch, NixOS, Ubuntu Server）を用いたOS環境の自動構築・整備や、自宅サーバーの構築およびマルチコンテナ環境の運用の経験があります。
+[Linux（Arch, NixOS）を用いたOS環境の自動構築・整備](https://github.com/masaki-y-devops/nixos-setup-flakes)や、[Ubuntu Serverで自宅サーバーの構築およびマルチコンテナ環境の運用の経験](https://github.com/masaki-y-devops/self-hosted-docs)があります。
 
 単にツールを動かすだけでなく、インフラの再現性（**IaC**類似の思想）や運用の自動化（**SRE**のような考え方）を意識した設計・トラブルシューティングが強みであると自負しています。
 

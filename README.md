@@ -1,4 +1,4 @@
-### Welcome to my Testing Repository
+### Welcome to my Testing Repository (Saying "Hello, world!" from Japan)
 
 These repositories are built for personal and educational purposes only.
 

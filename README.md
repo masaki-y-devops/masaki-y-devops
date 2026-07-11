@@ -1,10 +1,12 @@
 ### Welcome to my Testing Repository (Saying "Hello, world!" from Japan)
 
+_"Thanks for your visiting (and of course following)! I'm happy that my code has reached to you. Happy coding!"_
+
+_"I'm thrilled that I have a roose but steady connections, relationships between many of great engineers all over the world through GitHub."_
+
 These repositories are built for personal and educational purposes only.
 
-There's no guarranties that it is perfect for any purposes.
-
-_"Thanks for your visiting (and of course following)! I'm happy that my code has reached to you. Happy coding!"_
+There's no guarranties that it is perfect for any use cases.
 
 <details>
 <summary><strong>See my some interests (Click here to expand)</strong></summary>
@@ -38,7 +40,7 @@ _"Thanks for your visiting (and of course following)! I'm happy that my code has
   - i3-12100F
   - GTX1050
   - DDR4 8GBx2
-  - WD SN850X
+  - WD SN850X NVMe SSD
   - WD UltraStar HDD x2
   - Toshiba 2.5" HDD x2 
 </details>

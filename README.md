@@ -9,6 +9,21 @@ _"Thanks for your visiting (and of course following)! I'm happy that my code has
 <details>
 <summary><strong>See my some interests (Click here to expand)</strong></summary>
 
+### I like...
+
+### Software:
+#### Operating Systems
+- NixOS
+- Arch Linux
+- Gentoo
+- Linux Mint
+- Manjaro
+- Ubuntu Server
+
+#### Development Frameworks
+- Next.js(React) + Vercel
+- C# WPF Desktop Apps
+
 ### I'm also an UMPC and Self-built PC enthuasist in Japan
 
 ### Hardware:

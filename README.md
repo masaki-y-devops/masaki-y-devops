@@ -10,7 +10,7 @@
 
 最終目標は、「トイル（手作業）を技術で撲滅し、仕組みで生産性を加速させる」仕事をすることです。
 
-### 【個人活動・システム運用実績】
+### 【個人活動・システム運用】
 [Linux（Arch, NixOS）を用いたOS環境の自動構築・整備](https://github.com/masaki-y-devops/nixos-setup-flakes)や、
 
 [Ubuntu Serverで自宅サーバーの構築およびマルチコンテナ環境の運用の経験](https://github.com/masaki-y-devops/self-hosted-docs)があります。

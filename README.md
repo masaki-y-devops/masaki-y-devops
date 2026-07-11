@@ -7,7 +7,7 @@ There's no guarranties that it is perfect for any purposes.
 _"Thanks for your visiting (and of course following)! I'm happy that my code has reached to you. Happy coding!"_
 
 <details>
-<summary>See my some interests</summary>
+<summary><strong>See my some interests (Click here to expand)</strong></summary>
 
 ### I'm also an UMPC and Self-built PC enthuasist in Japan
 

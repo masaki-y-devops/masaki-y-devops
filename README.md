@@ -4,10 +4,6 @@ _"Thanks for your visiting (and of course following)! I'm happy that my code has
 
 _"I'm thrilled that I have a roose but steady connections, relationships between many of great engineers all over the world through GitHub."_
 
-These repositories are built for personal and educational purposes only.
-
-There's no guarranties that it is perfect for any use cases.
-
 <details>
 <summary><strong>See my some interests (Click here to expand)</strong></summary>
 

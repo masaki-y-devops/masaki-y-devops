@@ -1,6 +1,6 @@
 ### Welcome to my Testing Repository (Saying "Hello, world!" from Japan)
 
-_"Thanks for your visiting (and of course following)! I'm happy that my code has reached to you. Happy coding!"_
+_"Thanks for your visiting! I'm happy that my code has reached to you. Happy coding!"_
 
 _"I'm thrilled that I have a roose but steady connections, relationships between many of great engineers all over the world through GitHub."_
 

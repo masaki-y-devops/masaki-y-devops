@@ -38,5 +38,6 @@ _"I'm thrilled that I have a roose but steady connections, relationships between
   - DDR4 8GBx2
   - WD SN850X NVMe SSD
   - WD UltraStar HDD x2
-  - Toshiba 2.5" HDD x2 
+  - Toshiba 2.5" HDD x2
+  - Corsair RM1000e PSU (derived from past i9 setup)
 </details>

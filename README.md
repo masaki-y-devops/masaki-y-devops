@@ -1,4 +1,4 @@
-### Welcome to my Testing Repository (Saying "Hello, world!" from Japan)
+### Welcome to my Repository
 
 _"Thanks for your visiting! I'm happy that my code has reached to you. Happy coding!"_
 
